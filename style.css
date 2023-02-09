@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar img {
+    height: 100%;
+    width: 21%;
+}
+
+.navbar ul{
+    list-style-type: none;
+}
+
+.color1 {
+	/* width: 100%; */
+	/* display: flex; */
+    	/* -webkit-box-pack: center; */
+    	/* justify-content: center; */
+    	background: rgb(234, 4, 78);
+}
